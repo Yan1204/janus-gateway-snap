@@ -1,4 +1,4 @@
-name: janus-gateway
+name: janus-gateway-arm64
 base: core18
 summary: Janus WebRTC Server
 adopt-info: janus
